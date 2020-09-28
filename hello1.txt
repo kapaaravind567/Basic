@@ -1,0 +1,4 @@
+674,deli,6836
+9,chinna,369
+8,kaaravind,4500
+6,kumar,6000
